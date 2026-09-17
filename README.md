@@ -26,5 +26,3 @@ I just have a direction.
 And yeah...
 
 **I'm probably thinking right now.** ☕
-
-<img width="1672" height="940" alt="ChatGPT Image Sep 13, 2026, 01_07_54 AM" src="https://github.com/user-attachments/assets/e6ae86fc-c988-4958-adcd-f7c975675b9b9" />

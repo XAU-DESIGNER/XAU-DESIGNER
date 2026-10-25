@@ -9,8 +9,6 @@ I just have a direction.
 > Make useful things.
 > Let the results make the noise.
 
-$e^{iwt}=cos(wt)+i\,sin(wt)$
-
 “Wake up to reality! Nothing ever goes as planned in this accursed world.”
 
 — Madara Uchiha

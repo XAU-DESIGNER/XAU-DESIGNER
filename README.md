@@ -2,7 +2,7 @@
 
 I don't have a perfect roadmap.
 I just have a direction.
-I like c# PYTHON & JAVASCRIPT
+> I like c# PYTHON & JAVASCRIPT
 
 ### Philosophy
 
